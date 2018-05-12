@@ -1,0 +1,43 @@
+_repo: The-Cricket-on-the-Hearth_20795
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, George Alfred
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '4569'
+    url: http://www.gutenberg.org/2009/agents/4569
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2007-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20795'
+language: en
+publication_note: "New York\r\nThe Platt & Peck Co.\r\nCopyright, 1905, by The Baker\
+  \ & Taylor Company"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holidays -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Christmas stories, English'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: "Chirp the First\r\nChirp the Second\r\nChirp the Third"
+title: The Cricket on the Hearth
+url: http://www.gutenberg.org/ebooks/20795
