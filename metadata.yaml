@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20795#The-Cricket-on-the-Hearth
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2007-03-10'
 gutenberg_type: Text
